@@ -1,7 +1,7 @@
 remove the jokers
-create four piles of cards face down next to eachother
+create four piles of cards face down, all next to each other
 place four cards in each of the outer two piles
-place one card in each of the inner two piles
+place one card to each of the inner two piles
 deal out the remaining cards to two players
 each player must then deal themselves a hand of five cards from the cards they have just recived
 players must always have five cards in their hand
